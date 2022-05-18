@@ -1,0 +1,320 @@
+#z{
+    width: 159%;
+    height: 40px;
+    position: sticky;
+}
+#dr:hover{
+    color: brown;
+    background-color: rgb(134, 201, 243);
+}
+#top:hover{
+    background-color: darkorange;
+}
+
+.cl{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+
+    
+    
+}
+
+
+
+
+.col{
+    height: 450px;
+    width: 50%;
+    background-color: rgb(244, 244, 244);
+    
+    
+    
+}
+.col-1{
+    
+    text-align: center;
+    color: rgb(12, 12, 5);
+    border: 2px solid rgb(178, 141, 141);
+    border-radius: 100px;
+    
+   
+
+    
+    
+}
+.col-2{
+    
+    text-align: center;
+    color: rgb(21, 6, 11);
+    border: 1px solid rgb(163, 151, 151);
+    border-radius: 100px;
+}
+#i1{
+    height: 320px;
+    width: 69%;
+    margin-left: -235px;
+    border-radius: 45px;
+}
+
+#i2{
+    height: 320px;
+    width: 69%;
+    margin-left: -233px;
+    border-radius: 45px;
+}
+#p1{
+    margin-left: 524px;
+    margin-top: -300px;
+    
+}
+#p2{
+    margin-left: 525px;
+    margin-top: -300px;
+}
+.col:hover{
+    background-color: rgb(14, 55, 221);
+    color: cornsilk;
+}
+#bu1{
+    width: 28%;
+    padding: 2%;
+    margin-left: -7%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 79, 222);
+    border-radius: 6%;
+    margin-top: -9%;
+}
+#bu1:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#bu2{
+    width: 28%;
+    padding: 2%;
+    margin-left: -20%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 74, 214);
+    border-radius: 6%;
+    margin-top: 1%;
+}
+#bu2:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#cimg1{
+    width: 100%;
+    height: 750px;
+}
+#cimg2{
+    width: 100%;
+    height: 750px;
+}
+#cimg3{
+    width: 100%;
+    height: 750px;
+}
+#ch5{
+    font-weight: 700;
+    font-size:xx-large;
+}
+#cp1{
+    color: rgb(4, 59, 147);
+    font-size: x-large;
+}
+#ch52{
+    font-weight: 700;
+    font-size:xx-large;
+    color: aliceblue;
+}
+#cp1{
+    color: rgb(58, 107, 156);
+    font-size: x-large;
+}
+#cp2{
+    color: aliceblue;
+    font-size: x-large;
+}
+#c1h5{
+    font-weight: 700;
+    font-size:xx-large;
+    color: aliceblue;
+}
+#cp3{
+    color: bisque;
+}
+#imgcol1{
+    width: 100%;
+}
+#imgcol2{
+    width: 100%;
+    padding: 1%;
+    margin-top: -2%;
+}
+#imgcol3{
+    width: 100%;
+    padding: 6%;
+    margin-top: -7%;
+}
+#imgcol4{
+    width: 100%;
+}
+#h31{
+    margin-left: 14%;
+}
+#h32{
+    margin-left: 31%;
+}
+#h33{
+    margin-left: 20%;
+}
+
+#h34{
+    margin-left: 20%;
+}
+#hover:hover{
+    background-color: rgb(14, 55, 221);
+    color: cornsilk;
+}
+#burow1{
+    width: 54%;
+    padding: 1%;
+    margin-left: 20%;
+    color: rgb(254, 254, 254);
+    background-color: rgb(24, 78, 216);
+    border-radius: 6%;
+    margin-top: 1%;
+}
+#burow1:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#burow2{
+    width: 54%;
+    padding: 1%;
+    margin-left: 20%;
+    color: rgb(254, 254, 254);
+    background-color: rgb(24, 78, 216);
+    border-radius: 6%;
+    margin-top: -2%;
+}
+#burow2:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#burow3{
+    width: 54%;
+    padding: 1%;
+    margin-left: 20%;
+    color: rgb(254, 254, 254);
+    background-color: rgb(24, 78, 216);
+    border-radius: 6%;
+    margin-top: -7%;
+}
+#burow3:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#burow4{
+    width: 54%;
+    padding: 1%;
+    margin-left: 20%;
+    color: rgb(254, 254, 254);
+    background-color: rgb(24, 78, 216);
+    border-radius: 6%;
+    margin-top: 3%;
+}
+#burow4:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#toph2{
+    color: darkblue;
+    text-align: center;
+    margin-top: -3%;
+    background-color: gainsboro;
+}
+#TOPh2{
+    text-align: center;
+    margin-top: 2%;
+    color: darkblue;
+    background-color: rgb(182, 235, 235);
+
+}
+
+
+#navh1{
+    color: white;
+    margin-left: -1%;
+    font-weight: 700;
+    font-size: 205%;
+    
+}
+#modal{
+    margin-left: 396%;
+    font-size: 129%;
+}
+#modal:hover{
+    background-color: coral;
+}
+#acc:hover{
+    background-color: salmon;
+}
+.navbar{
+    
+    
+   
+}
+#imgcard1{
+    width: 100%;
+    padding:0;
+    margin-top: 0;
+    height: 33ex;
+}
+#imgcard2{
+    width: 100%;
+    padding: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    height: 33ex;
+}
+#rowcard{
+    padding-left: 6%;
+}
+#imgcard3{
+    width: 100%;
+    padding: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    height: 33ex;
+}
+#imgcard4{
+    width: 100%;
+    padding: 0%;
+    margin-top: 0%;
+    margin-right: 0%;
+    height: 33ex;
+}
+
+#cardbody1:hover{
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+#cardbody2:hover{
+    background-color: red;
+    color: aliceblue;
+}
+#cardbody3:hover{
+    background-color: rgb(133, 153, 161);
+    color: aliceblue;
+}
+#cardbody4:hover{
+    background-color: darkkhaki;
+    color: aliceblue;
+}
+.btn-primary:hover{
+    background-color: aliceblue;
+    border: none;
+    color: black;
+}
