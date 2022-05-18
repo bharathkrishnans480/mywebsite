@@ -319,32 +319,32 @@
     color: black;
 }
 #img11{
-    width: 106%;
-    height: 33ex;
+    width: 100%;
+    height: 28ex;
     padding: 0%;
     margin-top: 0%;
     margin-right: 0%;
     margin-left: 0%;
 }
 #img12{
-    width: 106%;
-    height: 33ex;
+    width: 100%;
+    height: 28ex;
     padding: 0%;
     margin-top: 0%;
     margin-right: 0%;
     margin-left: 0%;
 }
 #img13{
-    width: 106%;
-    height: 33ex;
+    width: 100%;
+    height: 28ex;
     padding: 0%;
     margin-top: 0%;
     margin-right: 0%;
     margin-left: 0%;
 }
 #img14{
-    width: 106%;
-    height: 33ex;
+    width: 100%;
+    height: 28ex;
     padding: 0%;
     margin-top: 0%;
     margin-right: 0%;
@@ -357,11 +357,15 @@
     margin-left: 0%;
 }
 #card12{
-    margin-left: 5.1%;
+    margin-left: 5%;
 }
 #card13{
     margin-left: 5%;
 }
 #card14{
     margin-left: 5%;
+}
+#cardb:hover{
+    background-color: red;
+    color: aliceblue;
 }
