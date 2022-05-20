@@ -235,12 +235,26 @@
     margin-top: -3%;
     background-color: gainsboro;
 }
+
 #TOPh2{
+    position: relative;
     text-align: center;
     margin-top: 2%;
     color: darkblue;
     background-color: rgb(182, 235, 235);
+    animation-name: move;
+    animation-duration: 7s;
+    animation-iteration-count: 5;
 
+}
+@keyframes move{
+    0%{
+        left:0px
+        
+    }
+    100%{
+        left: 600px;
+    }
 }
 
 
@@ -368,4 +382,75 @@
 #cardb:hover{
     background-color: red;
     color: aliceblue;
+}
+#imglast{
+    width: 50%;
+    height: 200%;
+}
+#imgl1{
+    width: 100%;
+    height: 386px;
+    border-radius: 7%;
+}
+#imgl2{
+    width: 100%;
+    height: 386px;
+    border-radius: 7%;
+}
+#hm{
+    
+    position: relative;
+    
+    color: rgb(255, 255, 255);
+    animation-name: move;
+    animation-duration: 7s;
+    animation-iteration-count: 5;
+    background-color: rgb(225, 65, 65);
+    text-align: center;
+
+
+
+    
+}
+@keyframes move{
+    0%{
+        left:0px
+    }
+    100%{
+        left: 600px;
+    }
+}
+#h2h1{
+    color: aliceblue;
+    background-color: rgb(14, 55, 221);
+    border-radius: 43%;
+    text-align: center;
+}
+#rowl{
+box-shadow: brown;
+}
+#rowl:hover{
+    background-color: rgb(14, 55, 221);
+    color: aliceblue;
+}
+#butt{
+    margin-left: 31%;
+}
+#h4price{
+    text-align: center;
+    background-color: thistle;
+}
+#staticBackdropLabel{
+    color: black;
+}
+#modalbody1{
+    background-color: rgb(211, 157, 157);
+    color: aliceblue;
+}
+#lastcol{
+    background-color: rgb(38, 25, 150);
+    height: 25%;
+    padding: 1%;
+    margin-top: 3%;
+    
 }

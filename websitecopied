@@ -140,13 +140,47 @@
    </div>
 
   </div>
+  <div class="cl " >
+    <div class="col col-1">
+      <h3>SAMSUNG S22 ULTRA</h3>
+      <img src="./images/samsungs22 ultraaa.jpg" alt="" id="i1">
+      <p id="p1">
+        DESCRIPTION: <br>
+The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed. The phone sports a 6.1-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department there is a Triple-sensor setup is present.
 
 
+      </p>
+      
+        <button id="bu1">BUYNOW @ <i class="fa-solid fa-indian-rupee-sign"></i> 89000</button>
+        
+    </div>
+    <div class="col col-2">
+      <h3 class="text-uppercase">Iphone 13pro </h3>
+      <img src="./images/GqVpPq2bRANcYTnMgqceUA-1200-80.jpg" alt="" id="i2">
+      <p id="p2">
+        DESCRIPTION: <br>
+The iPhone 13 Pro is Apple's smaller premium iPhone with a 6.1" screen size and for the first time in an iPhone, it comes with a 120Hz ProMotion display for super smooth scrolling. The list of innovations includes a more capable triple camera setup, with a wide, ultra-wide and zoom cameras, as well as a LiDAR scanner.
+
+
+      </p>  
+      <button id="bu2">BUYNOW @ <i class="fa-solid fa-indian-rupee-sign"></i> 79000</button>
+    </div>
+    
+    </div>
+    
+    
+</div>
+
+<div>
+  <h2 id="toph2" class="container">  LEADING SMARTPHONE BRANDS ON OFFER 
+  </h2>
+  
+</div>
 <br>
 
 
 <div class="row">
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" id="hover">
+  <div class="col-3" id="hover">
     <h3 id="h31">GOOGLE PIXEL 5XL</h3>
      <img src="./images/Google-Pixel-5-Phone-768x480.jpg" alt="" id="imgcol1">
      <p id="prow1">
@@ -170,7 +204,7 @@
       <button id="burow1">BUYNOW @ <br><i class="fa-solid fa-indian-rupee-sign"></i> 65999</button>
      
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3"id="hover">
+  <div class="col-3"id="hover">
     <h3 id="h32">IPHONE 12</h3>
     <img src="./images/iphone12.jpg" alt="" id="imgcol2">
     <p id="prow2">
@@ -192,7 +226,7 @@
       <button id="burow2">BUYNOW @ <br><i class="fa-solid fa-indian-rupee-sign"></i>  52999</button>
       
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3"id="hover">
+  <div class="col-3"id="hover">
     <h3 id="h33">SAMSUNG S21 FE</h3>
     <img src="./images/Gear-Samsung-S21-FE-top.webp" alt="" id="imgcol3">
     <p id="prow3">DESCRIPTION: <br>
@@ -216,7 +250,7 @@
       <button id="burow3">BUYNOW @ <br> <i class="fa-solid fa-indian-rupee-sign"></i> 37999</button>
       
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3"id="hover">
+  <div class="col-3"id="hover">
     <h3 id="h34">ONEPLUS 10 PRO</h3>
       <img src="./images/oneplus10pro.jpg" alt="" id="imgcol4">
       <p id="prow4">
@@ -249,7 +283,7 @@
     <br>
   </div>
   <div  class="row" id="rowcard">
-    <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="border: none;" id="cardcol1">
+    <div class="col-3" style="border: none;" id="cardcol1">
       <div class="card" style="width: 18rem;">
         <img src="./images/smartwatch3 card1.jpg" class="card-img-top" alt="..." id="imgcard1">
         <div class="card-body" id="cardbody1">
@@ -259,7 +293,7 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3"style="border: none;">
+    <div class="col-3"style="border: none;">
       <div class="card" style="width: 18rem;">
         <img src="./images/applewatch7latest.jfif" class="card-img-top" alt="..." id="imgcard2">
         <div class="card-body" id="cardbody2">
@@ -270,7 +304,7 @@
       </div>
        
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="border: none;" >
+    <div class="col-3" style="border: none;" >
       <div class="card" style="width: 18rem;">
         <img src="./images/144921-smartwatches-news-feature-google-pixel-watch-specs-release-date-news-and-rumours-image6-dtjm3b4xlm.jpg" class="card-img-top" alt="..." id="imgcard3">
         <div class="card-body" id="cardbody3">
@@ -281,7 +315,7 @@
       </div>
        
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="border: none;" >
+    <div class="col-3" style="border: none;" >
       <div class="card" style="width: 18rem;">
         <img src="./images/fossil.webp" class="card-img-top" alt="..." id="imgcard3">
         <div class="card-body" id="cardbody4">
@@ -296,7 +330,7 @@
   
 </div>
 <div  class="row" id="rowcard2" >
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="width: 18rem; border: none;" id="card11" >
+  <div class="col-3" style="width: 18rem; border: none;" id="card11" >
     <img src="./images/914hFeTU2-L._SL1500_.jpg" class="card-img-top" alt="..." id="img11">
     <div class="card-body" id="cardb">
       <h5 class="card-title">Canon Eos200d</h5>
@@ -304,7 +338,7 @@
       <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-arrow-down"></i> Add to Cart</a>
     </div>
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="width: 18rem;" id="card12">
+  <div class="col-3" style="width: 18rem;" id="card12">
     <img src="./images/nikon 3.webp" class="card-img-top" alt="..." id="img12">
     <div class="card-body"id="cardb">
       <h5 class="card-title">Nikon D5200</h5>
@@ -312,7 +346,7 @@
       <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-arrow-down"></i> Add to Cart</a>
     </div>
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="width: 18rem;" id="card13">
+  <div class="col-3" style="width: 18rem;" id="card13">
     <img src="./images/fuji2.jpg" class="card-img-top" alt="..." id="img13">
     <div class="card-body"id="cardb">
       <h5 class="card-title">Fuji film X-T4</h5>
@@ -320,7 +354,7 @@
       <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-arrow-down"></i> Add to Cart</a>
     </div>
   </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3" style="width: 18rem;" id="card14">
+  <div class="col-3" style="width: 18rem;" id="card14">
     <img src="./images/sonycamera2.jpg" class="card-img-top" alt="..." id="img14">
     <div class="card-body"id="cardb">
       <h5 class="card-title">Sony Alpha</h5>
@@ -328,119 +362,11 @@
       <a href="#" class="btn btn-primary"><i class="fa-solid fa-cart-arrow-down"></i> Add to Cart</a>
     </div>
   </div>
-  <br>
-  <br>
-  <div class="container">
-    <h2  id="hm" class="container w-50">MIND BLOWING DEAL</h2>
-  </div><br>
-  <br>
-  <br>
-
-<div class="row" >
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-6" id="rowl">
-    <h2 id="h2h1">Samsung s22 Ultra</h2>
-      <img src="./images/samsungs22 ultraaa.jpg" alt="" id="imgl1">
-      <p> DESCRIPTION: <br>
-        The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed. The phone sports a 6.1-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department there is a Triple-sensor setup is present.</p>
-        <h4 id="h4price" >OFFER PRICE <i class="fa-solid fa-rupee-sign"></i> 98999</h4>
-        <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop" id="butt">
-  SUBSCRIBE NOW TO GET OFFER
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Subscribe to get notified when we launch offer</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body" id="modalbody1">
-        <hr><input type="text" name="" id="boxno1" placeholder="Email" style="height: 43px; width: 75%;" ><br>
-        <hr><input type="text" name="" id="" placeholder="Phone Number" style="height: 43px; width: 75%;" ><br>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary">Subscribe</button>
-      </div>
-    </div>
-  </div>
-</div>
-   
-  </div>
-  <div class="col-sm-12 col-md-6 col-lg-4 col-xl-6" id="rowl">
-    <h2 id="h2h1">Iphone 13 pro</h2>
-      <img src="./images/GqVpPq2bRANcYTnMgqceUA-1200-80.jpg" alt="" id="imgl2">
-      <p> DESCRIPTION: <br>
-        The iPhone 13 Pro is Apple's smaller premium iPhone with a 6.1" screen size and for the first time in an iPhone, it comes with a 120Hz ProMotion display for super smooth scrolling. The list of innovations includes a more capable triple camera setup, with a wide, ultra-wide and zoom cameras, as well as a LiDAR scanner.</p>
-        <h4 id="h4price" >OFFER PRICE <i class="fa-solid fa-rupee-sign"></i> 87999</h4>
-                <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop" id="butt">
-  SUBSCRIBE NOW TO GET OFFER
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="staticBackdropLabel">Subscribe to get notified when we launch offer</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body" id="modalbody1">
-        <hr><input type="text" name="" id="boxno1" placeholder="Email" style="height: 43px; width: 75%;" ><br>
-        <hr><input type="text" name="" id="" placeholder="Phone Number" style="height: 43px; width: 75%;" ><br>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary">Subscribe</button>
-      </div>
-    </div>
-  </div>
 </div>
 
 
-
-
-</div>
-
-<div class="row" id="lastcol">
-  <div class="col-4" >
-    <u><a href="" style="color: white;">contact us</a></u><br>
-    <br>
-    <u><a href="" style="color: white;">payment help</a></u><br>
-    <br>
-    <u><a href="" style="color: white;">shipping details</a></u><br>
-    <br>
-    <u><a href="" style="color: white;">Cancellation & Returns</a></u><br>
-   
+     
       
-  </div>
-  <div class="col-4">
-    
-    <u><input type="text" placeholder="Name" style="width: 65%;"></u><br>
-    <br>
-    
-    <u><input type="text" placeholder="Help us to improve our services" style="height: 65%; width: 75%;"></u>
-    
-    
-</div>
-<div class="col-4" >
-  <u><a href="" style="color: white;">social</a></u><br>
-    <u><a href="" style="color: white;">wholesale</a></u><br>
-    <u><a href="" style="color: white;">mail us new@gadget.in</a></u><br>
-    <br>
-    <u><h7 style="color: white;">newhouse building <br>house bridge <br> alappuzha <br> kerala <br>India</h7></u>
-  
-</div>
-
-
-
-      
-  </div>
-  
-  
-</div>
-
       
 </body>
 </html>
